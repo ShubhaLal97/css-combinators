@@ -1,0 +1,14 @@
+article {
+    padding: 40px;
+    margin: 30px;
+    font-size: 25px;
+    line-height: 1.3;
+    background-color: aquamarine;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px chocolate;
+}
+article > p {
+    font-size: large;
+    background-color: cornflowerblue;
+
+}
